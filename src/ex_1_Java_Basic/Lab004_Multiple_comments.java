@@ -7,9 +7,10 @@ public class Lab004_Multiple_comments {
 //        Comments will not execute
         System.out.println("Multiple line comment");
 
-        /* Author-ABCD
-        Course- ATB13X
-        stmt-Comments are non-executable statement
+        /**
+         * Author-ABCD
+        * Course- ATB13X
+        * stmt-Comments are non-executable statement
          */
 
 

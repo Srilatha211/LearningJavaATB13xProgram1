@@ -2,7 +2,7 @@ package ex_1_Java_Basic;
 
 public class Table_9 {
     public static void main(String[] args) {
-        int a = 9;
+        int a = 5;
         int b = 1;
 
 

@@ -13,11 +13,10 @@ public class Lab0054_ScannerClass {
         System.out.println("Enter the percentage");
 
         float percentage = scanner.nextFloat();
-//int percentage= scanner.nextInt();
-        //int per = a >= 40? 1: 0;
+/*int percentage= scanner.nextInt();
+       int per = a >= 40? 1: 0;*/
         String per= percentage >=40? "Pass":"Fail";
         System.out.println(per);
-
 
 
     }

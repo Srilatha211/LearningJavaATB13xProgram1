@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Lab0059_Switch_withoutBreak {
     public static void main(String[] args) {
 
-        // Take use input and tell them the day which they have told
+        // Take useR input and tell them the day which they have told
         // 1 t0 7  1-->monday .. 7-->sun
         //8-->This is not a weekday--Not allowed
 

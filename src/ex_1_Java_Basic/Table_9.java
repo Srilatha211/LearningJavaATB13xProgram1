@@ -31,7 +31,7 @@ public class Table_9 {
         System.out.printf(" = %d \n", a * b++);
 
         System.out.printf("%d * %d", a, b);
-        System.out.printf(" = %d \n", a * b++);
+        System.out.printf(" = %d ", a * b++);
 
         System.out.printf("%d * %d", a, b);
         System.out.printf(" = %d \n", a * b++);

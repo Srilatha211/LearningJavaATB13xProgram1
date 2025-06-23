@@ -8,7 +8,10 @@ public class Lab0086_ForLoop_EvenOdd {
             if(i%2==0){
 
                 System.out.println(i +"even number!");
-            }
+            }//else {
+                //System.out.println(i +"odd number!");
+           // }
+
         }
 
     }

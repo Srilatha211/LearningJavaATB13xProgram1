@@ -9,7 +9,8 @@ public class Lab113_string_Immutable_Interview {
          /*these are string constant pool -- 1 - String
          here we have only overall 1 string, bcz "Hello" is already present once it cannot be changed
         this is how the memory management and is immutable*/
-//String s4= new String("Hello");
+
+
 
         String s5= new String("Hello");// 1st String  // This is Object Area creation
         String s6= new String("Hello");// 2nd String

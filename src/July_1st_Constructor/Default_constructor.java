@@ -45,9 +45,6 @@ class Baby{
     void eat(){
         System.out.println("Eat!!");
     }
-    void drink(){
-        System.out.println("Eat!!");
-    }
 
 
 }

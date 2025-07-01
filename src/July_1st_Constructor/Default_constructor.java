@@ -38,13 +38,7 @@ class Baby{
         System.out.println("Cry!!");
     }
 
-    void sleep(){
-        System.out.println("Sleep!!");
-    }
 
-    void eat(){
-        System.out.println("Eat!!");
-    }
 
 
 }

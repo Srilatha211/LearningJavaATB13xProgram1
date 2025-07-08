@@ -15,4 +15,17 @@ in different package it should work without restriction.
 */
 
 public class Task_7_Public {
+    public static void main(String[] args) {
+        Student3 s = new Student3();
+
+
+        s.showInfo();
+    }
 }
+class Student3 {
+
+    public void showInfo() {
+        System.out.println("Public Access: Student Info");
+    }
+}
+

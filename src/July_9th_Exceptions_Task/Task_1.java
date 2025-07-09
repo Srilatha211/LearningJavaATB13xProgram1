@@ -1,4 +1,4 @@
-package July_9th_Exceptions;
+package July_9th_Exceptions_Task;
 
 
 /*Task 1: Basic Try-Catch with ArithmeticException

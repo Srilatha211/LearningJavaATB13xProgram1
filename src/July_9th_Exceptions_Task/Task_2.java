@@ -1,4 +1,4 @@
-package July_9th_Exceptions;
+package July_9th_Exceptions_Task;
 
 /*✅ Task 2: Try-Catch with Multiple Catch Blocks
 

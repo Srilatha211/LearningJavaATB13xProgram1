@@ -1,4 +1,4 @@
-package July_8thWrapper_Class;
+package July_8th_Task_Wrapper_Class;
 
 public class TAsk_2_String {
     public static void main(String[] args) {

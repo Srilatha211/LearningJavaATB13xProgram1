@@ -1,4 +1,4 @@
-package July_9th_Exceptions;
+package July_9th_Exceptions_Task;
 
 import java.io.FileNotFoundException;
 import java.io.FileReader;

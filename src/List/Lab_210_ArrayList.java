@@ -1,9 +1,8 @@
 package List;
 
 import java.util.ArrayList;
-import java.util.List;
 
-public class Lab_300_ArrayList {
+public class Lab_210_ArrayList {
     public static void main(String[] args) {
      //   List l = new ArrayList(); // Dynamic dispatch
      //   List <Integer> l = new ArrayList(); // if we use this only integers are accepted bcz its hardcoded

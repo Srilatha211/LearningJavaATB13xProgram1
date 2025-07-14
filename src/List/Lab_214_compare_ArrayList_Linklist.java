@@ -5,7 +5,7 @@ import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.List;
 
-public class Lab_304_compare_ArrayList_Linklist {
+public class Lab_214_compare_ArrayList_Linklist {
     public static void main(String[] args) {
 
         //one way of creating array/Linkedlist by giving capacity

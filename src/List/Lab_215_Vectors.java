@@ -4,7 +4,7 @@ import java.util.Enumeration;
 import java.util.Iterator;
 import java.util.Vector;
 
-public class Lab_305_Vectors  {
+public class Lab_215_Vectors {
     public static void main(String[] args) {
         Vector v = new Vector();
         Vector v1 = new Vector(10);

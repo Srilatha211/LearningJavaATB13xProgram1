@@ -2,7 +2,7 @@ package List;
 
 import java.util.LinkedList;
 
-public class Lab_303_LinkedList {
+public class Lab_213_LinkedList {
     public static void main(String[] args) {
         //LinkedList  animals = new LinkedList(); // Accepts all the datatypes
         LinkedList<String> animals = new LinkedList();

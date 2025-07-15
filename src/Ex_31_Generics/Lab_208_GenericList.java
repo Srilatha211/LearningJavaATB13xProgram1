@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Lab_208_GenericList {
-    // List - Collection Framework ->collection of items -> 12,3, sri,
+    // Ex_32_Collection_FrameWorks_DSA.List - Collection Framework ->collection of items -> 12,3, sri,
 
     //Collection frameworks we use in Generics
         public static void main(String[] args) {

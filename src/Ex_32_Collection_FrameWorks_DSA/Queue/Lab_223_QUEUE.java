@@ -1,10 +1,10 @@
-package Queue;
+package Ex_32_Collection_FrameWorks_DSA.Queue;
 
 import java.util.PriorityQueue;
 
 public class Lab_223_QUEUE {
     public static void main(String[] args) {
-        // Queue -> 0.001% in Automation
+        // Ex_32_Collection_FrameWorks_DSA.Queue -> 0.001% in Automation
         PriorityQueue q = new PriorityQueue();
         q.add("Pramod");
         q.add("Dutta");

@@ -1,4 +1,4 @@
-package Queue;
+package Ex_32_Collection_FrameWorks_DSA.Queue;
 
 import java.util.ArrayDeque;
 

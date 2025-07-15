@@ -23,7 +23,7 @@ public class Task_6 {
         fruits.add(4,"Papaya");
 
         // Print the final list
-        System.out.println("Final Fruit List: " + fruits);
+        System.out.println("Final Fruit Ex_32_Collection_FrameWorks_DSA.List: " + fruits);
     }
 
 

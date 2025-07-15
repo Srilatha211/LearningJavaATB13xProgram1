@@ -15,7 +15,7 @@ public class Task_3 {
 
         //to reverse a LinkedList using l.reversed();,
         // but that line will cause a compile-time error,
-        // because the List interface (and classes like LinkedList)
+        // because the Ex_32_Collection_FrameWorks_DSA.List interface (and classes like LinkedList)
         // do not have a method called reversed().
        // l.reversed()
         Collections.reverse(l);

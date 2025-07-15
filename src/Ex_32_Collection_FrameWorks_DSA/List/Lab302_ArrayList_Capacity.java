@@ -1,11 +1,11 @@
-package List;
+package Ex_32_Collection_FrameWorks_DSA.List;
 
 import java.util.ArrayList;
 import java.util.List;
 
 public class Lab302_ArrayList_Capacity {
     public static void main(String[] args) {
-       // List l = new ArrayList();// Default capacity // Dynamic dispatch
+       // Ex_32_Collection_FrameWorks_DSA.List l = new ArrayList();// Default capacity // Dynamic dispatch
         List list= new ArrayList(10);
         list.add("1"); // 0
         list.add("2");  // 1
@@ -18,8 +18,8 @@ public class Lab302_ArrayList_Capacity {
         System.out.println(list.size()); //7 - all the elements
 
         System.out.println(list.isEmpty()); // thier is no empty -- false
-        System.out.println(list.contains("1")); // List conatins string element 1
-        System.out.println(list.contains(1)); //List does not contains interger element 1
+        System.out.println(list.contains("1")); // Ex_32_Collection_FrameWorks_DSA.List conatins string element 1
+        System.out.println(list.contains(1)); //Ex_32_Collection_FrameWorks_DSA.List does not contains interger element 1
 
         // Returns the index of the first occurrence of the specified element in this list,
         System.out.println(list.indexOf("3"));

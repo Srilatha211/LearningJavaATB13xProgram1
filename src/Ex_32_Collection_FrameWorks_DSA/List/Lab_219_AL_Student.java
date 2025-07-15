@@ -1,8 +1,8 @@
-package List;
+package Ex_32_Collection_FrameWorks_DSA.List;
 
 import java.util.ArrayList;
 
-public class Lab_309_AL_Student {
+public class Lab_219_AL_Student {
     public static void main(String[] args) {
 
         Student S1= new Student("sri", "3467");

@@ -1,4 +1,4 @@
-package List;
+package Ex_32_Collection_FrameWorks_DSA.List;
 
 import java.util.ArrayList;
 import java.util.Scanner;

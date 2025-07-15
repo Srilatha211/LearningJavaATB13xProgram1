@@ -1,4 +1,4 @@
-package List;
+package Ex_32_Collection_FrameWorks_DSA.List;
 
 import java.util.ArrayList;
 import java.util.Iterator;
@@ -13,7 +13,7 @@ public class Lab_214_compare_ArrayList_Linklist {
         //other way of creating array/Linkedlist is default
         List mylist0 = new ArrayList(); // // Arrays Format - Continuous memory
 
-        List mylist2 = new LinkedList(); // Doubly Linked List./ scarted
+        List mylist2 = new LinkedList(); // Doubly Linked Ex_32_Collection_FrameWorks_DSA.List./ scarted
 
         mylist2.add("sri");
         mylist2.add("latha");

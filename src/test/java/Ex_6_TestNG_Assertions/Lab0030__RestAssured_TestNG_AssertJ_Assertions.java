@@ -1,5 +1,5 @@
 package Ex_6_TestNG_Assertions;
-//import static org.assertj.core.api.Assertions.*;
+import static org.assertj.core.api.Assertions.*;
 import io.restassured.RestAssured;
 import io.restassured.http.ContentType;
 import io.restassured.path.json.JsonPath;
@@ -69,11 +69,11 @@ public class Lab0030__RestAssured_TestNG_AssertJ_Assertions {
         JsonPath jp = new JsonPath(response.asString());
         String bookingID1 = jp.getString("bookingid");
 
-//        assertThat(jp.getInt("bookingid")).isEqualTo(5164);
-//        assertThat(jp.getString("booking.firstname")).isEqualTo("pramod");
-//        assertThat(jp.getString("booking.lastname")).isEqualTo("Dutta");
-//        assertThat(jp.getInt("booking.totalprice")).isEqualTo(3000);
-//        assertThat(jp.getBoolean("booking.depositpaid")).isTrue();
+        assertThat(jp.getInt("bookingid")).isEqualTo(5164);
+        assertThat(jp.getString("booking.firstname")).isEqualTo("pramod");
+        assertThat(jp.getString("booking.lastname")).isEqualTo("Dutta");
+        assertThat(jp.getInt("booking.totalprice")).isEqualTo(3000);
+        assertThat(jp.getBoolean("booking.depositpaid")).isTrue();
 
 
         // TestNG - Extract the details of the firstname, bookingId, lastname from Response.
@@ -93,8 +93,8 @@ public class Lab0030__RestAssured_TestNG_AssertJ_Assertions {
 
         // AssertJ( 3rd- Lib to Assertions) - 20%
 
-//        assertThat(bookingId).isNotZero().isNotNull().isPositive();
-//        assertThat(firstname).isNotBlank().isNotEmpty().isNotNull().isEqualTo("Pramod");
+        assertThat(bookingId).isNotZero().isNotNull().isPositive();
+        assertThat(firstname).isNotBlank().isNotEmpty().isNotNull().isEqualTo("Pramod");
 
 //        assertThat(deposit).isTrue();
 

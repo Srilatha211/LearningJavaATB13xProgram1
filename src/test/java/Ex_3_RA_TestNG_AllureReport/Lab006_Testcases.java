@@ -34,7 +34,7 @@ public class Lab006_Testcases {
                 .when()
                 .get()
                 .then()
-                .log().all().statusCode(200);
+                .log().all().statusCode(400);
     }
 
     @Test
@@ -49,7 +49,7 @@ public class Lab006_Testcases {
                 .when()
                 .get()
                 .then()
-                .log().all().statusCode(200);
+                .log().all().statusCode(400);
     }
 
 

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="All Test Suite">
+    <test
+            name="C:/Users/ashok/IdeaProjects/ATB13XAPIAutomation/src/test/java/Method_Level"
+            verbose="2"
+            preserve-order="true">
+
+<!--        <parameter name="browser" value="Chrome"></parameter>-->
+<!--       <parameter name="browser" value="firefox"></parameter>-->
+     <parameter name="browser" value="safari"></parameter>
+
+        <classes>
+            <class name="EX_5_TestNGEXamples.LoginTest_Method">
+
+            </class>
+        </classes>
+
+    </test>
+</suite>
